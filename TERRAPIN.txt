@@ -1,0 +1,18 @@
+Northern river terrapin
+
+India-:{'https://www.thehindu.com/sci-tech/energy-and-environment/five-turtles-race-against-extinction-in-the-wild/article23035643.ece':The terrapin races against extinction in the wild , 'https://indianexpress.com/article/india/step-away-from-extinction-four-endangered-species-on-rescue-list-clouded-leopard-arabian-sea-humpback-whale-red-panda-5246160/':Step away from extinction, four endangered species on rescue list, 'https://www.thehindu.com/sci-tech/energy-and-environment/a-sunderbans-denizen-staves-off-extinction/article19333832.ece':A Sunderbans denizen staves off extinction,
+'https://www.hindustantimes.com/mumbai-news/india-has-10-of-world-s-50-most-threatened-freshwater-turtle-species-report/story-srgbMsjH2lp9jxjTTXK1XL.html':India has 10% of world’s 50 most threatened freshwater turtle species,
+'https://www.hindustantimes.com/environment/at-least-10-species-in-the-ganga-face-extinction-say-ministry-reports/story-ecpjjZPoeiMZofK6oRexEL.html':At least 10 species in the Ganga face extinction
+'https://www.thedailystar.net/country/rare-turtle-wildlife-breeding-programme-rescued-satkhira-1375327':Rare turtle of wildlife breeding programme rescued in Satkhira}
+
+
+myanmar-:{'https://www.mmtimes.com/news/northern-river-terrapin-close-extinction-myanmar.html':Northern river terrapin close to extinction in Myanmar,'https://www.nationalgeographic.com/animals/2018/09/turtles-endangered-biodiversity-ecology-tortoise-terrapin-animals/':What If There Were No More Turtles,
+}
+
+singapore-:{'https://www.sciencemag.org/news/2018/03/asias-hunger-sand-takes-toll-endangered-species':Asia hunger for sand takes a toll on endangered species,
+'https://www.maritime-executive.com/article/salvage-operations-under-way-for-ssl-kolkata':Salvage Operations Under Way for SSL Kolkata}
+
+
+bangladesh-:{'https://www.sciencemag.org/news/2018/03/asias-hunger-sand-takes-toll-endangered-species':Asia hunger for sand takes a toll on endangered species,
+'https://www.thedailystar.net/backpage/endangered-turtles-may-see-revival-1615249':Endangered turtles may see a revival,
+'https://news.mongabay.com/2018/03/new-report-highlights-top-50-tortoises-and-turtles-on-brink-of-extinction/':New report highlights top 50 tortoises and turtles on brink of extinction}
